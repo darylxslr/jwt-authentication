@@ -55,10 +55,11 @@ def update_uploaded_file(file_id):
 
 # DELETE — Delete
 @file_bp.route('/file/<int:file_id>', methods=['DELETE'])
-def delete_existing_file(file_id):
+def delete_uploaded_file(file_id):
     try:
         delete_file(file_id)
-        return jsonify({'message': 'File deleted successfully'}), 200
+        return jsonify({"message": "File deleted successfully"}), 200
     except Exception as e:
         logging.error(f"Delete error: {e}")
-        return jsonify({'message': str(e)}), 400
+        return jsonify({"message": str(e)}), 400
+

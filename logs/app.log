@@ -227,3 +227,43 @@
 2025-10-18 19:02:58,695 [INFO] 127.0.0.1 - - [18/Oct/2025 19:02:58] "GET /file/2 HTTP/1.1" 200 -
 2025-10-18 19:03:05,256 [INFO] 127.0.0.1 - - [18/Oct/2025 19:03:05] "[33mGET /file/3 HTTP/1.1[0m" 404 -
 2025-10-18 19:03:08,661 [INFO] 127.0.0.1 - - [18/Oct/2025 19:03:08] "GET /file/4 HTTP/1.1" 200 -
+2025-10-18 20:18:24,449 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 20:18:24,450 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 20:18:24,452 [INFO]  * Restarting with stat
+2025-10-18 20:18:25,543 [WARNING]  * Debugger is active!
+2025-10-18 20:18:25,589 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 20:18:36,581 [INFO] 127.0.0.1 - - [18/Oct/2025 20:18:36] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 20:19:20,080 [INFO] File saved: uploads\22d05b592e5e4e5f890c607d41a0dd56\0b217643e31949329d6b9cd37b203914_douma.jpg
+2025-10-18 20:19:20,084 [INFO] 127.0.0.1 - - [18/Oct/2025 20:19:20] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 20:19:24,059 [INFO] File saved: uploads\b49693c3f28e440abceeadb07493143c\6cb4c12c016d4a4b8ffb3434d687436a_doumareal.jpg
+2025-10-18 20:19:24,061 [INFO] 127.0.0.1 - - [18/Oct/2025 20:19:24] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 20:19:44,457 [INFO] File saved: uploads\6d443cfb344b46e5bb5532aeec1c11f9\53e3355bba5a46f8863e5a81d8340c0a_Screenshot_2025-09-26_114815.png
+2025-10-18 20:19:44,461 [INFO] 127.0.0.1 - - [18/Oct/2025 20:19:44] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 20:19:54,852 [INFO] 127.0.0.1 - - [18/Oct/2025 20:19:54] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 20:20:17,529 [INFO] Old file removed: uploads\6d443cfb344b46e5bb5532aeec1c11f9\53e3355bba5a46f8863e5a81d8340c0a_Screenshot_2025-09-26_114815.png
+2025-10-18 20:20:17,546 [INFO] File updated: ID=3, Path=uploads\6d443cfb344b46e5bb5532aeec1c11f9\Screenshot_63.png
+2025-10-18 20:20:17,551 [INFO] 127.0.0.1 - - [18/Oct/2025 20:20:17] "PUT /file/3 HTTP/1.1" 200 -
+2025-10-18 20:20:22,809 [INFO] 127.0.0.1 - - [18/Oct/2025 20:20:22] "[33mGET /file/4 HTTP/1.1[0m" 404 -
+2025-10-18 20:20:24,633 [INFO] 127.0.0.1 - - [18/Oct/2025 20:20:24] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 20:20:45,556 [INFO] File deleted from storage: uploads\6d443cfb344b46e5bb5532aeec1c11f9\Screenshot_63.png
+2025-10-18 20:20:45,557 [INFO] Empty folder removed: uploads\6d443cfb344b46e5bb5532aeec1c11f9
+2025-10-18 20:20:45,652 [INFO] Database record deleted: ID=3
+2025-10-18 20:20:45,653 [INFO] 127.0.0.1 - - [18/Oct/2025 20:20:45] "DELETE /file/3 HTTP/1.1" 200 -
+2025-10-18 20:21:01,647 [INFO] File deleted from storage: uploads\b49693c3f28e440abceeadb07493143c\6cb4c12c016d4a4b8ffb3434d687436a_doumareal.jpg
+2025-10-18 20:21:01,648 [INFO] Empty folder removed: uploads\b49693c3f28e440abceeadb07493143c
+2025-10-18 20:21:01,737 [INFO] Database record deleted: ID=2
+2025-10-18 20:21:01,738 [INFO] 127.0.0.1 - - [18/Oct/2025 20:21:01] "DELETE /file/2 HTTP/1.1" 200 -
+2025-10-18 20:21:03,885 [INFO] File deleted from storage: uploads\22d05b592e5e4e5f890c607d41a0dd56\0b217643e31949329d6b9cd37b203914_douma.jpg
+2025-10-18 20:21:03,886 [INFO] Empty folder removed: uploads\22d05b592e5e4e5f890c607d41a0dd56
+2025-10-18 20:21:03,934 [INFO] Database record deleted: ID=1
+2025-10-18 20:21:03,934 [INFO] 127.0.0.1 - - [18/Oct/2025 20:21:03] "DELETE /file/1 HTTP/1.1" 200 -
+2025-10-18 20:21:20,747 [INFO] File saved: uploads\f6ac8b6b4a1f4fbc960597b8aa6dd21d\d3ccd0028e314275845b043cb02cb333_douma.jpg
+2025-10-18 20:21:20,749 [INFO] 127.0.0.1 - - [18/Oct/2025 20:21:20] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 20:21:45,702 [INFO] Old file removed: uploads\f6ac8b6b4a1f4fbc960597b8aa6dd21d\d3ccd0028e314275845b043cb02cb333_douma.jpg
+2025-10-18 20:21:45,773 [INFO] File updated: ID=4, Path=uploads\f6ac8b6b4a1f4fbc960597b8aa6dd21d\doumareal.jpg
+2025-10-18 20:21:45,780 [INFO] 127.0.0.1 - - [18/Oct/2025 20:21:45] "PUT /file/4 HTTP/1.1" 200 -
+2025-10-18 20:22:03,770 [INFO] 127.0.0.1 - - [18/Oct/2025 20:22:03] "GET /file/4 HTTP/1.1" 200 -
+2025-10-18 20:22:17,679 [INFO] 127.0.0.1 - - [18/Oct/2025 20:22:17] "[33mPOST /uplaod HTTP/1.1[0m" 404 -
+2025-10-18 20:22:25,123 [INFO] File saved: uploads\f474b31b45034ec6a79f078d84045a72\8dbc86657e1645cfa1b81c5c969eb479_douma.jpg
+2025-10-18 20:22:25,125 [INFO] 127.0.0.1 - - [18/Oct/2025 20:22:25] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -

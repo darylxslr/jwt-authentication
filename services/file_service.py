@@ -54,17 +54,29 @@ def update_file(file_id, file):
     logging.info(f"File updated: ID={file_id}, Path={save_path}")
     return record
 
+from extensions import db
+from models.uploaded_file import UploadedFile
+import os, logging
+
 def delete_file(file_id):
     record = UploadedFile.query.get(file_id)
     if not record:
         raise ValueError(f"File with ID {file_id} not found")
 
-    if os.path.exists(record.filepath):
+    if record.filepath and os.path.exists(record.filepath):
         os.remove(record.filepath)
         logging.info(f"File deleted from storage: {record.filepath}")
 
+        folder = os.path.dirname(record.filepath)
+        if os.path.exists(folder) and not os.listdir(folder):
+            os.rmdir(folder)
+            logging.info(f"Empty folder removed: {folder}")
+
+    else:
+        logging.warning(f"File path not found or already deleted: {record.filepath}")
+
     db.session.delete(record)
     db.session.commit()
+    logging.info(f"Database record deleted: ID={file_id}")
 
-    logging.info(f"Record deleted: ID={file_id}")
     return True
