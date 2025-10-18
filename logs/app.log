@@ -1,0 +1,229 @@
+2025-10-18 14:24:29,672 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 14:24:29,673 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 15:45:07,028 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 15:45:07,029 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 15:45:07,031 [INFO]  * Restarting with stat
+2025-10-18 15:45:07,610 [WARNING]  * Debugger is active!
+2025-10-18 15:45:07,615 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 16:21:49,356 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 16:21:49,356 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 16:21:49,359 [INFO]  * Restarting with stat
+2025-10-18 16:21:49,952 [WARNING]  * Debugger is active!
+2025-10-18 16:21:49,957 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 16:34:59,772 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 16:34:59,772 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 16:34:59,774 [INFO]  * Restarting with stat
+2025-10-18 16:35:00,367 [WARNING]  * Debugger is active!
+2025-10-18 16:35:00,372 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 16:46:54,468 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 16:46:54,468 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 16:46:54,470 [INFO]  * Restarting with stat
+2025-10-18 16:46:55,026 [WARNING]  * Debugger is active!
+2025-10-18 16:46:55,031 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 16:55:30,647 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 16:55:30,647 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 16:55:30,648 [INFO]  * Restarting with stat
+2025-10-18 16:55:31,362 [WARNING]  * Debugger is active!
+2025-10-18 16:55:31,368 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 17:06:53,434 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 17:06:53,435 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 17:06:53,436 [INFO]  * Restarting with stat
+2025-10-18 17:06:53,998 [WARNING]  * Debugger is active!
+2025-10-18 17:06:54,003 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 17:19:26,355 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 17:19:26,356 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 17:19:26,357 [INFO]  * Restarting with stat
+2025-10-18 17:19:26,933 [WARNING]  * Debugger is active!
+2025-10-18 17:19:26,937 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 17:20:30,297 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:20:30,298 [INFO] 127.0.0.1 - - [18/Oct/2025 17:20:30] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:22:09,142 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:22:09,142 [INFO] 127.0.0.1 - - [18/Oct/2025 17:22:09] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:32:37,541 [INFO] 127.0.0.1 - - [18/Oct/2025 17:32:37] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 17:32:46,570 [INFO] 127.0.0.1 - - [18/Oct/2025 17:32:46] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 17:33:22,194 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:33:22,195 [INFO] 127.0.0.1 - - [18/Oct/2025 17:33:22] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:33:26,019 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:33:26,019 [INFO] 127.0.0.1 - - [18/Oct/2025 17:33:26] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:33:47,989 [INFO] 127.0.0.1 - - [18/Oct/2025 17:33:47] "[31m[1mPUT /upload HTTP/1.1[0m" 405 -
+2025-10-18 17:33:57,342 [INFO] 127.0.0.1 - - [18/Oct/2025 17:33:57] "[31m[1mPUT /upload HTTP/1.1[0m" 405 -
+2025-10-18 17:35:34,617 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 17:35:34,617 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 17:35:34,619 [INFO]  * Restarting with stat
+2025-10-18 17:35:35,259 [WARNING]  * Debugger is active!
+2025-10-18 17:35:35,264 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 17:36:01,061 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:36:01,064 [INFO] 127.0.0.1 - - [18/Oct/2025 17:36:01] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:45:32,692 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 17:45:32,693 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 17:45:32,695 [INFO]  * Restarting with stat
+2025-10-18 17:45:33,299 [WARNING]  * Debugger is active!
+2025-10-18 17:45:33,304 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 17:46:19,371 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:46:19,374 [INFO] 127.0.0.1 - - [18/Oct/2025 17:46:19] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:50:05,857 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:50:05,858 [INFO] 127.0.0.1 - - [18/Oct/2025 17:50:05] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:50:51,515 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:50:51,517 [INFO] 127.0.0.1 - - [18/Oct/2025 17:50:51] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:56:37,085 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 17:56:37,086 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 17:56:37,088 [INFO]  * Restarting with stat
+2025-10-18 17:56:37,641 [WARNING]  * Debugger is active!
+2025-10-18 17:56:37,646 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 17:57:15,054 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:57:15,056 [INFO] 127.0.0.1 - - [18/Oct/2025 17:57:15] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:57:26,145 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:57:26,146 [INFO] 127.0.0.1 - - [18/Oct/2025 17:57:26] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:57:27,163 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:57:27,163 [INFO] 127.0.0.1 - - [18/Oct/2025 17:57:27] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 17:57:52,836 [INFO] 127.0.0.1 - - [18/Oct/2025 17:57:52] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 17:57:57,217 [INFO] 127.0.0.1 - - [18/Oct/2025 17:57:57] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 17:58:10,503 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 17:58:10,503 [INFO] 127.0.0.1 - - [18/Oct/2025 17:58:10] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 18:00:37,068 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:00:37,068 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:00:37,070 [INFO]  * Restarting with stat
+2025-10-18 18:00:37,608 [WARNING]  * Debugger is active!
+2025-10-18 18:00:37,611 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 18:01:00,662 [ERROR] Upload error: 'file_path' is an invalid keyword argument for UploadedFile
+2025-10-18 18:01:00,663 [INFO] 127.0.0.1 - - [18/Oct/2025 18:01:00] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-18 18:01:37,306 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:01:37,306 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:01:37,308 [INFO]  * Restarting with stat
+2025-10-18 18:01:37,874 [WARNING]  * Debugger is active!
+2025-10-18 18:01:37,878 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 18:02:04,803 [INFO] File saved: uploads\98bbff65c0304cccba0c7bc6dd0e4770\f188dc3c99ba4915aa74992fd52bee8e\Screenshot_133.png
+2025-10-18 18:02:04,808 [INFO] 127.0.0.1 - - [18/Oct/2025 18:02:04] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 18:02:50,760 [INFO] File saved: uploads\7b354864a7544e00a160bb8452b1bd28\edc74c9925ed441db07a950af1ce623a\douma.jpg
+2025-10-18 18:02:50,763 [INFO] 127.0.0.1 - - [18/Oct/2025 18:02:50] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 18:03:01,012 [INFO] 127.0.0.1 - - [18/Oct/2025 18:03:01] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 18:03:08,494 [INFO] 127.0.0.1 - - [18/Oct/2025 18:03:08] "GET /file/2 HTTP/1.1" 200 -
+2025-10-18 18:03:11,445 [INFO] 127.0.0.1 - - [18/Oct/2025 18:03:11] "[33mGET /file/3 HTTP/1.1[0m" 404 -
+2025-10-18 18:03:25,658 [INFO] File saved: uploads\d852350d147f411ab3aa3b92ad9f9546\6107c90fc34946dbb427af01f2e66fad\doumareal.jpg
+2025-10-18 18:03:25,660 [INFO] 127.0.0.1 - - [18/Oct/2025 18:03:25] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 18:03:45,800 [INFO] 127.0.0.1 - - [18/Oct/2025 18:03:45] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 18:04:07,070 [INFO] File deleted from storage: uploads\98bbff65c0304cccba0c7bc6dd0e4770\f188dc3c99ba4915aa74992fd52bee8e\Screenshot_133.png
+2025-10-18 18:04:07,082 [INFO] Record deleted: ID=1
+2025-10-18 18:04:07,083 [INFO] 127.0.0.1 - - [18/Oct/2025 18:04:07] "DELETE /file/1 HTTP/1.1" 200 -
+2025-10-18 18:04:28,901 [ERROR] Update error: update_file() takes 2 positional arguments but 3 were given
+2025-10-18 18:04:28,902 [INFO] 127.0.0.1 - - [18/Oct/2025 18:04:28] "[31m[1mPUT /file/1 HTTP/1.1[0m" 400 -
+2025-10-18 18:04:38,114 [INFO] 127.0.0.1 - - [18/Oct/2025 18:04:38] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:04:41,681 [INFO] 127.0.0.1 - - [18/Oct/2025 18:04:41] "GET /file/2 HTTP/1.1" 200 -
+2025-10-18 18:04:45,351 [INFO] 127.0.0.1 - - [18/Oct/2025 18:04:45] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 18:04:47,732 [INFO] 127.0.0.1 - - [18/Oct/2025 18:04:47] "[33mGET /file/4 HTTP/1.1[0m" 404 -
+2025-10-18 18:04:49,780 [INFO] 127.0.0.1 - - [18/Oct/2025 18:04:49] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:05:12,989 [INFO] File saved: uploads\b6044480a0974a23aa785bff69e85ed0\aa544ecc78614a86a137fac0d01e5a74\Screenshot_99.png
+2025-10-18 18:05:12,991 [INFO] 127.0.0.1 - - [18/Oct/2025 18:05:12] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 18:05:22,960 [INFO] 127.0.0.1 - - [18/Oct/2025 18:05:22] "GET /file/4 HTTP/1.1" 200 -
+2025-10-18 18:05:37,327 [ERROR] Update error: update_file() takes 2 positional arguments but 3 were given
+2025-10-18 18:05:37,327 [INFO] 127.0.0.1 - - [18/Oct/2025 18:05:37] "[31m[1mPUT /file/1 HTTP/1.1[0m" 400 -
+2025-10-18 18:07:43,489 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:07:43,490 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:07:43,492 [INFO]  * Restarting with stat
+2025-10-18 18:07:44,090 [WARNING]  * Debugger is active!
+2025-10-18 18:07:44,153 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 18:08:04,215 [INFO] 127.0.0.1 - - [18/Oct/2025 18:08:04] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:08:31,610 [ERROR] File with ID 1 not found
+2025-10-18 18:08:31,611 [INFO] 127.0.0.1 - - [18/Oct/2025 18:08:31] "[35m[1mPUT /file/1 HTTP/1.1[0m" 500 -
+2025-10-18 18:08:38,523 [ERROR] File with ID 1 not found
+2025-10-18 18:08:38,524 [INFO] 127.0.0.1 - - [18/Oct/2025 18:08:38] "[35m[1mPUT /file/1 HTTP/1.1[0m" 500 -
+2025-10-18 18:08:43,898 [INFO] 127.0.0.1 - - [18/Oct/2025 18:08:43] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:10:20,665 [INFO] 127.0.0.1 - - [18/Oct/2025 18:10:20] "GET /file/2 HTTP/1.1" 200 -
+2025-10-18 18:10:23,685 [INFO] 127.0.0.1 - - [18/Oct/2025 18:10:23] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 18:10:26,572 [INFO] 127.0.0.1 - - [18/Oct/2025 18:10:26] "GET /file/4 HTTP/1.1" 200 -
+2025-10-18 18:10:30,902 [INFO] 127.0.0.1 - - [18/Oct/2025 18:10:30] "[33mGET /file/5 HTTP/1.1[0m" 404 -
+2025-10-18 18:10:50,181 [INFO] Old file removed: uploads\b6044480a0974a23aa785bff69e85ed0\aa544ecc78614a86a137fac0d01e5a74\Screenshot_99.png
+2025-10-18 18:10:50,193 [INFO] File updated: ID=4, Path=uploads\b6044480a0974a23aa785bff69e85ed0\aa544ecc78614a86a137fac0d01e5a74\Screenshot_2025-09-11_050612.png
+2025-10-18 18:10:50,196 [INFO] 127.0.0.1 - - [18/Oct/2025 18:10:50] "PUT /file/4 HTTP/1.1" 200 -
+2025-10-18 18:11:02,129 [INFO] 127.0.0.1 - - [18/Oct/2025 18:11:02] "[33mGET /file/5 HTTP/1.1[0m" 404 -
+2025-10-18 18:11:04,461 [INFO] 127.0.0.1 - - [18/Oct/2025 18:11:04] "GET /file/4 HTTP/1.1" 200 -
+2025-10-18 18:11:07,330 [INFO] 127.0.0.1 - - [18/Oct/2025 18:11:07] "[33mGET /file/5 HTTP/1.1[0m" 404 -
+2025-10-18 18:12:30,804 [INFO] 127.0.0.1 - - [18/Oct/2025 18:12:30] "[33mPOST /upload/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:12:55,342 [INFO] 127.0.0.1 - - [18/Oct/2025 18:12:55] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:14:30,833 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:14:30,834 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:14:30,835 [INFO]  * Restarting with stat
+2025-10-18 18:14:31,427 [WARNING]  * Debugger is active!
+2025-10-18 18:14:31,430 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 18:14:57,754 [INFO] File saved: uploads\9b57cc3fa6dd47e59f99bb62368a5f12\a27f837c728a4898af62d53505f54371\douma.jpg
+2025-10-18 18:14:57,756 [INFO] 127.0.0.1 - - [18/Oct/2025 18:14:57] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 18:15:08,715 [INFO] 127.0.0.1 - - [18/Oct/2025 18:15:08] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 18:15:23,911 [INFO] Old file removed: uploads\9b57cc3fa6dd47e59f99bb62368a5f12\a27f837c728a4898af62d53505f54371\douma.jpg
+2025-10-18 18:15:23,920 [INFO] File updated: ID=1, Path=uploads\9b57cc3fa6dd47e59f99bb62368a5f12\a27f837c728a4898af62d53505f54371\doumareal.jpg
+2025-10-18 18:15:23,922 [INFO] 127.0.0.1 - - [18/Oct/2025 18:15:23] "PUT /file/1 HTTP/1.1" 200 -
+2025-10-18 18:15:31,588 [INFO] 127.0.0.1 - - [18/Oct/2025 18:15:31] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 18:15:34,681 [INFO] 127.0.0.1 - - [18/Oct/2025 18:15:34] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 18:18:23,840 [INFO] 127.0.0.1 - - [18/Oct/2025 18:18:23] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 18:18:27,707 [INFO] 127.0.0.1 - - [18/Oct/2025 18:18:27] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-18 18:18:32,303 [INFO] 127.0.0.1 - - [18/Oct/2025 18:18:32] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 18:18:36,646 [INFO] File deleted from storage: uploads\9b57cc3fa6dd47e59f99bb62368a5f12\a27f837c728a4898af62d53505f54371\doumareal.jpg
+2025-10-18 18:18:36,664 [INFO] Record deleted: ID=1
+2025-10-18 18:18:36,665 [INFO] 127.0.0.1 - - [18/Oct/2025 18:18:36] "DELETE /file/1 HTTP/1.1" 200 -
+2025-10-18 18:18:39,757 [INFO] 127.0.0.1 - - [18/Oct/2025 18:18:39] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:18:46,027 [ERROR] File with ID 1 not found
+2025-10-18 18:18:46,028 [INFO] 127.0.0.1 - - [18/Oct/2025 18:18:46] "[35m[1mPUT /file/1 HTTP/1.1[0m" 500 -
+2025-10-18 18:32:05,250 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:32:05,250 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:32:05,253 [INFO]  * Restarting with stat
+2025-10-18 18:32:06,291 [WARNING]  * Debugger is active!
+2025-10-18 18:32:06,299 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 18:32:15,246 [INFO] 127.0.0.1 - - [18/Oct/2025 18:32:15] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:32:51,447 [INFO] File saved: uploads\cc0878eef12a4aafac11910757473d96\3fa30c2947f64d47a7a51094ee8dcdbb\douma.jpg
+2025-10-18 18:32:51,453 [INFO] 127.0.0.1 - - [18/Oct/2025 18:32:51] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 18:33:04,944 [INFO] 127.0.0.1 - - [18/Oct/2025 18:33:04] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-18 18:33:06,869 [INFO] 127.0.0.1 - - [18/Oct/2025 18:33:06] "GET /file/2 HTTP/1.1" 200 -
+2025-10-18 18:33:34,084 [INFO] File saved: uploads\1223ad4e9f3f441ca75cbe8cad06f813\f20c4b61551e459c82a066acc73006af\Screenshot_94.png
+2025-10-18 18:33:34,089 [INFO] 127.0.0.1 - - [18/Oct/2025 18:33:34] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 18:33:43,282 [INFO] 127.0.0.1 - - [18/Oct/2025 18:33:43] "[33mGET /filr/3 HTTP/1.1[0m" 404 -
+2025-10-18 18:33:48,271 [INFO] 127.0.0.1 - - [18/Oct/2025 18:33:48] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 18:34:13,830 [INFO] Old file removed: uploads\1223ad4e9f3f441ca75cbe8cad06f813\f20c4b61551e459c82a066acc73006af\Screenshot_94.png
+2025-10-18 18:34:13,845 [INFO] File updated: ID=3, Path=uploads\1223ad4e9f3f441ca75cbe8cad06f813\f20c4b61551e459c82a066acc73006af\doumareal.jpg
+2025-10-18 18:34:13,848 [INFO] 127.0.0.1 - - [18/Oct/2025 18:34:13] "PUT /file/3 HTTP/1.1" 200 -
+2025-10-18 18:34:22,520 [INFO] 127.0.0.1 - - [18/Oct/2025 18:34:22] "[33mGET /file/4 HTTP/1.1[0m" 404 -
+2025-10-18 18:34:25,497 [INFO] 127.0.0.1 - - [18/Oct/2025 18:34:25] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 18:59:03,122 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-18 18:59:03,123 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-18 18:59:03,126 [INFO]  * Restarting with stat
+2025-10-18 18:59:04,281 [WARNING]  * Debugger is active!
+2025-10-18 18:59:04,287 [INFO]  * Debugger PIN: 169-552-464
+2025-10-18 19:00:14,931 [INFO] File saved: uploads\1c1bb353791b41aab80dc4705ea2bb84\657218bdabb24c139537f6dacb2358ff_douma.jpg
+2025-10-18 19:00:14,939 [INFO] 127.0.0.1 - - [18/Oct/2025 19:00:14] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 19:00:53,353 [INFO] File saved: uploads\e08c6d08938b46d4a179bc01ba29ea3b\7c311abcb44c4464bd9ddf96439ba291_Screenshot_63.png
+2025-10-18 19:00:53,358 [INFO] 127.0.0.1 - - [18/Oct/2025 19:00:53] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 19:01:08,513 [INFO] File saved: uploads\f0a34d5761fa4e31a345e946f21b62f7\030c4aae63224d4090f0aed0ea368420_Screenshot_142.png
+2025-10-18 19:01:08,516 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:08] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 19:01:19,826 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:19] "[33mGET /file/4 HTTP/1.1[0m" 404 -
+2025-10-18 19:01:21,814 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:21] "GET /file/3 HTTP/1.1" 200 -
+2025-10-18 19:01:26,262 [INFO] File deleted from storage: uploads\f0a34d5761fa4e31a345e946f21b62f7\030c4aae63224d4090f0aed0ea368420_Screenshot_142.png
+2025-10-18 19:01:26,275 [INFO] Record deleted: ID=3
+2025-10-18 19:01:26,276 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:26] "DELETE /file/3 HTTP/1.1" 200 -
+2025-10-18 19:01:30,835 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:30] "[33mGET /file/3 HTTP/1.1[0m" 404 -
+2025-10-18 19:01:34,737 [INFO] 127.0.0.1 - - [18/Oct/2025 19:01:34] "GET /file/2 HTTP/1.1" 200 -
+2025-10-18 19:02:00,081 [INFO] File saved: uploads\ce2d12fefc57442abdcd5dc45dcb4132\0d2404c154664934bcf9995b88a395b0_doumareal.jpg
+2025-10-18 19:02:00,084 [INFO] 127.0.0.1 - - [18/Oct/2025 19:02:00] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-18 19:02:12,636 [INFO] 127.0.0.1 - - [18/Oct/2025 19:02:12] "[33mGET /file/3 HTTP/1.1[0m" 404 -
+2025-10-18 19:02:15,175 [INFO] 127.0.0.1 - - [18/Oct/2025 19:02:15] "GET /file/4 HTTP/1.1" 200 -
+2025-10-18 19:02:45,627 [INFO] Old file removed: uploads\e08c6d08938b46d4a179bc01ba29ea3b\7c311abcb44c4464bd9ddf96439ba291_Screenshot_63.png
+2025-10-18 19:02:45,640 [INFO] File updated: ID=2, Path=uploads\e08c6d08938b46d4a179bc01ba29ea3b\3759086-3840x2160-desktop-hd-msi-logo-wallpaper-image.jpg
+2025-10-18 19:02:45,643 [INFO] 127.0.0.1 - - [18/Oct/2025 19:02:45] "PUT /file/2 HTTP/1.1" 200 -
+2025-10-18 19:02:54,850 [INFO] 127.0.0.1 - - [18/Oct/2025 19:02:54] "GET /file/1 HTTP/1.1" 200 -
+2025-10-18 19:02:58,695 [INFO] 127.0.0.1 - - [18/Oct/2025 19:02:58] "GET /file/2 HTTP/1.1" 200 -
+2025-10-18 19:03:05,256 [INFO] 127.0.0.1 - - [18/Oct/2025 19:03:05] "[33mGET /file/3 HTTP/1.1[0m" 404 -
+2025-10-18 19:03:08,661 [INFO] 127.0.0.1 - - [18/Oct/2025 19:03:08] "GET /file/4 HTTP/1.1" 200 -
