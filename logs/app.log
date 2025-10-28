@@ -267,3 +267,131 @@
 2025-10-18 20:22:17,679 [INFO] 127.0.0.1 - - [18/Oct/2025 20:22:17] "[33mPOST /uplaod HTTP/1.1[0m" 404 -
 2025-10-18 20:22:25,123 [INFO] File saved: uploads\f474b31b45034ec6a79f078d84045a72\8dbc86657e1645cfa1b81c5c969eb479_douma.jpg
 2025-10-18 20:22:25,125 [INFO] 127.0.0.1 - - [18/Oct/2025 20:22:25] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-28 12:13:33,346 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 12:13:33,349 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 12:13:33,355 [INFO]  * Restarting with stat
+2025-10-28 12:13:34,687 [WARNING]  * Debugger is active!
+2025-10-28 12:13:34,695 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 12:14:15,750 [INFO] 127.0.0.1 - - [28/Oct/2025 12:14:15] "[33mGET /file/1 HTTP/1.1[0m" 404 -
+2025-10-28 12:14:20,152 [INFO] 127.0.0.1 - - [28/Oct/2025 12:14:20] "[33mGET /file/2 HTTP/1.1[0m" 404 -
+2025-10-28 12:14:24,312 [INFO] 127.0.0.1 - - [28/Oct/2025 12:14:24] "[33mGET /file/3 HTTP/1.1[0m" 404 -
+2025-10-28 12:17:05,322 [INFO] 127.0.0.1 - - [28/Oct/2025 12:17:05] "GET /file/4 HTTP/1.1" 200 -
+2025-10-28 12:17:12,734 [INFO] 127.0.0.1 - - [28/Oct/2025 12:17:12] "GET /file/5 HTTP/1.1" 200 -
+2025-10-28 12:17:18,354 [INFO] 127.0.0.1 - - [28/Oct/2025 12:17:18] "[33mGET /file/6 HTTP/1.1[0m" 404 -
+2025-10-28 12:59:51,463 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 12:59:51,465 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 12:59:51,470 [INFO]  * Restarting with stat
+2025-10-28 12:59:52,772 [WARNING]  * Debugger is active!
+2025-10-28 12:59:52,779 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 13:01:08,670 [INFO] 127.0.0.1 - - [28/Oct/2025 13:01:08] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:07:09,843 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 13:07:09,844 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 13:07:09,850 [INFO]  * Restarting with stat
+2025-10-28 13:07:11,110 [WARNING]  * Debugger is active!
+2025-10-28 13:07:11,116 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 13:08:36,073 [INFO] 127.0.0.1 - - [28/Oct/2025 13:08:36] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:08:54,253 [INFO] 127.0.0.1 - - [28/Oct/2025 13:08:54] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:09:43,541 [INFO] 127.0.0.1 - - [28/Oct/2025 13:09:43] "[33mGET /login HTTP/1.1[0m" 404 -
+2025-10-28 13:09:47,377 [INFO] 127.0.0.1 - - [28/Oct/2025 13:09:47] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:11:26,378 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 13:11:26,379 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 13:11:26,383 [INFO]  * Restarting with stat
+2025-10-28 13:11:27,904 [WARNING]  * Debugger is active!
+2025-10-28 13:11:27,910 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 13:12:09,979 [INFO] 127.0.0.1 - - [28/Oct/2025 13:12:09] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:13:06,129 [INFO] 127.0.0.1 - - [28/Oct/2025 13:13:06] "GET /file/5 HTTP/1.1" 200 -
+2025-10-28 13:13:16,534 [INFO] 127.0.0.1 - - [28/Oct/2025 13:13:16] "[33mPOST /login/1 HTTP/1.1[0m" 404 -
+2025-10-28 13:13:21,009 [INFO] 127.0.0.1 - - [28/Oct/2025 13:13:21] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:13:26,229 [INFO] 127.0.0.1 - - [28/Oct/2025 13:13:26] "[33mPOST /auth HTTP/1.1[0m" 404 -
+2025-10-28 13:13:27,336 [INFO] 127.0.0.1 - - [28/Oct/2025 13:13:27] "[33mPOST /auth HTTP/1.1[0m" 404 -
+2025-10-28 13:17:22,721 [INFO] 127.0.0.1 - - [28/Oct/2025 13:17:22] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:17:23,482 [INFO] 127.0.0.1 - - [28/Oct/2025 13:17:23] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:17:24,738 [INFO] 127.0.0.1 - - [28/Oct/2025 13:17:24] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:22:58,914 [INFO] 127.0.0.1 - - [28/Oct/2025 13:22:58] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:25:41,456 [INFO] 127.0.0.1 - - [28/Oct/2025 13:25:41] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:26:30,386 [INFO] 127.0.0.1 - - [28/Oct/2025 13:26:30] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:26:33,520 [INFO] 127.0.0.1 - - [28/Oct/2025 13:26:33] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:26:35,220 [INFO] 127.0.0.1 - - [28/Oct/2025 13:26:35] "[33mPOST /login HTTP/1.1[0m" 404 -
+2025-10-28 13:27:52,164 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 13:27:52,166 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 13:27:52,171 [INFO]  * Restarting with stat
+2025-10-28 13:27:53,539 [WARNING]  * Debugger is active!
+2025-10-28 13:27:53,547 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 13:28:35,760 [INFO] 127.0.0.1 - - [28/Oct/2025 13:28:35] "POST /login HTTP/1.1" 200 -
+2025-10-28 13:28:53,769 [INFO] 127.0.0.1 - - [28/Oct/2025 13:28:53] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 13:28:59,352 [INFO] 127.0.0.1 - - [28/Oct/2025 13:28:59] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 13:29:03,416 [INFO] 127.0.0.1 - - [28/Oct/2025 13:29:03] "POST /login HTTP/1.1" 200 -
+2025-10-28 13:38:11,857 [INFO] 127.0.0.1 - - [28/Oct/2025 13:38:11] "POST /login HTTP/1.1" 200 -
+2025-10-28 13:38:16,027 [INFO] 127.0.0.1 - - [28/Oct/2025 13:38:16] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 13:38:26,187 [INFO] 127.0.0.1 - - [28/Oct/2025 13:38:26] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:48:07,467 [INFO] 127.0.0.1 - - [28/Oct/2025 14:48:07] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 14:48:11,415 [INFO] 127.0.0.1 - - [28/Oct/2025 14:48:11] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:48:36,363 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 14:48:36,364 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 14:48:36,368 [INFO]  * Restarting with stat
+2025-10-28 14:48:37,301 [WARNING]  * Debugger is active!
+2025-10-28 14:48:37,308 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 14:49:11,234 [INFO] 127.0.0.1 - - [28/Oct/2025 14:49:11] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:49:39,320 [INFO] 127.0.0.1 - - [28/Oct/2025 14:49:39] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 14:50:13,555 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:13] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:50:51,822 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:51] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 14:50:52,554 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:52] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 14:50:52,931 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:52] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 14:50:53,177 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:53] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 14:50:56,515 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:56] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:50:58,121 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:58] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:50:58,269 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:58] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:50:58,450 [INFO] 127.0.0.1 - - [28/Oct/2025 14:50:58] "POST /login HTTP/1.1" 200 -
+2025-10-28 14:56:39,289 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 14:56:39,290 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 14:56:39,291 [INFO]  * Restarting with stat
+2025-10-28 14:56:40,058 [WARNING]  * Debugger is active!
+2025-10-28 14:56:40,061 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 14:56:58,300 [ERROR] Login error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-10-28 14:56:58,302 [INFO] 127.0.0.1 - - [28/Oct/2025 14:56:58] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-10-28 14:57:27,994 [INFO] 127.0.0.1 - - [28/Oct/2025 14:57:27] "POST /login HTTP/1.1" 200 -
+2025-10-28 15:00:14,831 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:00:14,832 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:00:14,834 [INFO]  * Restarting with stat
+2025-10-28 15:00:15,627 [WARNING]  * Debugger is active!
+2025-10-28 15:00:15,630 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 15:00:28,236 [ERROR] Login error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-10-28 15:00:28,236 [INFO] 127.0.0.1 - - [28/Oct/2025 15:00:28] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-10-28 15:00:51,440 [INFO] 127.0.0.1 - - [28/Oct/2025 15:00:51] "POST /login HTTP/1.1" 200 -
+2025-10-28 15:00:55,699 [INFO] 127.0.0.1 - - [28/Oct/2025 15:00:55] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 15:03:01,331 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:03:01,331 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:03:01,333 [INFO]  * Restarting with stat
+2025-10-28 15:03:02,070 [WARNING]  * Debugger is active!
+2025-10-28 15:03:02,073 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 15:03:29,258 [INFO] 127.0.0.1 - - [28/Oct/2025 15:03:29] "POST /login HTTP/1.1" 200 -
+2025-10-28 15:03:31,558 [INFO] 127.0.0.1 - - [28/Oct/2025 15:03:31] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 15:04:33,107 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:04:33,107 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:04:33,110 [INFO]  * Restarting with stat
+2025-10-28 15:04:33,892 [WARNING]  * Debugger is active!
+2025-10-28 15:04:33,896 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 15:06:04,394 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:06:04,395 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:06:04,397 [INFO]  * Restarting with stat
+2025-10-28 15:06:05,160 [WARNING]  * Debugger is active!
+2025-10-28 15:06:05,163 [INFO]  * Debugger PIN: 834-370-197
+2025-10-28 15:06:06,963 [INFO] 2025-10-28 15:06:06.963353 [INFO] Login successful for user: password
+2025-10-28 15:06:06,964 [INFO] 127.0.0.1 - - [28/Oct/2025 15:06:06] "POST /login HTTP/1.1" 200 -
+2025-10-28 15:06:15,490 [WARNING] 2025-10-28 15:06:15.490211 [WARNING] Login failed for user: password
+2025-10-28 15:06:15,490 [INFO] 127.0.0.1 - - [28/Oct/2025 15:06:15] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 15:06:29,869 [WARNING] 2025-10-28 15:06:29.869333 [WARNING] Login failed for user: pas1sword
+2025-10-28 15:06:29,869 [INFO] 127.0.0.1 - - [28/Oct/2025 15:06:29] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-10-28 15:06:41,982 [INFO] 2025-10-28 15:06:41.982121 [INFO] Login successful for user: password
+2025-10-28 15:06:41,982 [INFO] 127.0.0.1 - - [28/Oct/2025 15:06:41] "POST /login HTTP/1.1" 200 -

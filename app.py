@@ -2,6 +2,7 @@ from flask import Flask
 from config import Config
 from extensions import db
 from controllers.file_controller import file_bp
+from controllers.auth_controller import auth_bp
 from models.uploaded_file import UploadedFile # 
 import logging, os
 
@@ -23,6 +24,7 @@ def create_app():
     app.config.from_object(Config)
     db.init_app(app)
     app.register_blueprint(file_bp)
+    app.register_blueprint(auth_bp)
     with app.app_context():
         db.create_all()
     return app
