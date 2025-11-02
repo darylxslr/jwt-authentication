@@ -395,3 +395,77 @@
 2025-10-28 15:06:29,869 [INFO] 127.0.0.1 - - [28/Oct/2025 15:06:29] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
 2025-10-28 15:06:41,982 [INFO] 2025-10-28 15:06:41.982121 [INFO] Login successful for user: password
 2025-10-28 15:06:41,982 [INFO] 127.0.0.1 - - [28/Oct/2025 15:06:41] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:13:01,834 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 23:13:01,836 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-02 23:13:01,840 [INFO]  * Restarting with stat
+2025-11-02 23:13:02,749 [WARNING]  * Debugger is active!
+2025-11-02 23:13:02,753 [INFO]  * Debugger PIN: 834-370-197
+2025-11-02 23:13:53,379 [INFO] 2025-11-02 23:13:53.379289 [INFO] Login successful for user: password
+2025-11-02 23:13:53,379 [INFO] 2025-11-02 23:13:53.379608 [INFO] Token created for user: password
+2025-11-02 23:13:53,380 [INFO] 127.0.0.1 - - [02/Nov/2025 23:13:53] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:03,569 [INFO] 2025-11-02 23:14:03.569230 [INFO] Login successful for user: password
+2025-11-02 23:14:03,569 [INFO] 2025-11-02 23:14:03.569601 [INFO] Token created for user: password
+2025-11-02 23:14:03,570 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:03] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:04,355 [INFO] 2025-11-02 23:14:04.355740 [INFO] Login successful for user: password
+2025-11-02 23:14:04,356 [INFO] 2025-11-02 23:14:04.356008 [INFO] Token created for user: password
+2025-11-02 23:14:04,356 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:04] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:05,166 [INFO] 2025-11-02 23:14:05.166140 [INFO] Login successful for user: password
+2025-11-02 23:14:05,166 [INFO] 2025-11-02 23:14:05.166422 [INFO] Token created for user: password
+2025-11-02 23:14:05,166 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:05] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:05,913 [INFO] 2025-11-02 23:14:05.913180 [INFO] Login successful for user: password
+2025-11-02 23:14:05,913 [INFO] 2025-11-02 23:14:05.913653 [INFO] Token created for user: password
+2025-11-02 23:14:05,914 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:05] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:06,723 [INFO] 2025-11-02 23:14:06.723183 [INFO] Login successful for user: password
+2025-11-02 23:14:06,723 [INFO] 2025-11-02 23:14:06.723497 [INFO] Token created for user: password
+2025-11-02 23:14:06,723 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:06] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:07,482 [INFO] 2025-11-02 23:14:07.482470 [INFO] Login successful for user: password
+2025-11-02 23:14:07,482 [INFO] 2025-11-02 23:14:07.482771 [INFO] Token created for user: password
+2025-11-02 23:14:07,483 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:07] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:35,011 [WARNING] 2025-11-02 23:14:35.011414 [WARNING] Login failed for user: password
+2025-11-02 23:14:35,012 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:35] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-11-02 23:14:36,347 [WARNING] 2025-11-02 23:14:36.347837 [WARNING] Login failed for user: password
+2025-11-02 23:14:36,348 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:36] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-11-02 23:14:39,996 [WARNING] 2025-11-02 23:14:39.996019 [WARNING] Login failed for user: passworda
+2025-11-02 23:14:39,996 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:39] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-11-02 23:14:46,915 [INFO] 2025-11-02 23:14:46.915775 [INFO] Login successful for user: password
+2025-11-02 23:14:46,916 [INFO] 2025-11-02 23:14:46.916098 [INFO] Token created for user: password
+2025-11-02 23:14:46,916 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:46] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:14:56,381 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:56] "GET /file/5 HTTP/1.1" 200 -
+2025-11-02 23:14:59,507 [INFO] 127.0.0.1 - - [02/Nov/2025 23:14:59] "GET /file/4 HTTP/1.1" 200 -
+2025-11-02 23:15:04,859 [INFO] 127.0.0.1 - - [02/Nov/2025 23:15:04] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2025-11-02 23:15:10,309 [INFO] 2025-11-02 23:15:10.309574 [INFO] Login successful for user: password
+2025-11-02 23:15:10,309 [INFO] 2025-11-02 23:15:10.309918 [INFO] Token created for user: password
+2025-11-02 23:15:10,310 [INFO] 127.0.0.1 - - [02/Nov/2025 23:15:10] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:17:02,750 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 23:17:02,750 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-02 23:17:02,753 [INFO]  * Restarting with stat
+2025-11-02 23:17:03,611 [WARNING]  * Debugger is active!
+2025-11-02 23:17:03,615 [INFO]  * Debugger PIN: 834-370-197
+2025-11-02 23:17:23,618 [INFO] 2025-11-02 23:17:23.618729 [INFO] Login successful for user: password
+2025-11-02 23:17:23,619 [INFO] 2025-11-02 23:17:23.619593 [INFO] Token created for user: password
+2025-11-02 23:17:23,621 [INFO] 127.0.0.1 - - [02/Nov/2025 23:17:23] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:22:50,501 [INFO] 2025-11-02 23:22:50.501428 [INFO] Login successful for user: password
+2025-11-02 23:22:50,502 [INFO] 2025-11-02 23:22:50.501979 [INFO] Token created for user: password
+2025-11-02 23:22:50,502 [INFO] 127.0.0.1 - - [02/Nov/2025 23:22:50] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:25:56,572 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 23:25:56,572 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-02 23:25:56,575 [INFO]  * Restarting with stat
+2025-11-02 23:25:57,411 [WARNING]  * Debugger is active!
+2025-11-02 23:25:57,415 [INFO]  * Debugger PIN: 834-370-197
+2025-11-02 23:29:07,795 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-02 23:29:07,795 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-02 23:29:07,799 [INFO]  * Restarting with stat
+2025-11-02 23:29:08,654 [WARNING]  * Debugger is active!
+2025-11-02 23:29:08,657 [INFO]  * Debugger PIN: 834-370-197
+2025-11-02 23:30:00,564 [INFO] 2025-11-02 23:30:00.564203 [INFO] Login successful for user: password
+2025-11-02 23:30:00,567 [INFO] 2025-11-02 23:30:00.567109 [INFO] Token created for user: password
+2025-11-02 23:30:00,568 [INFO] 127.0.0.1 - - [02/Nov/2025 23:30:00] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:33:59,301 [WARNING] 2025-11-02 23:33:59.300799 [WARNING] Login failed for user: password1
+2025-11-02 23:33:59,302 [INFO] 127.0.0.1 - - [02/Nov/2025 23:33:59] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2025-11-02 23:34:02,746 [INFO] 2025-11-02 23:34:02.746556 [INFO] Login successful for user: password
+2025-11-02 23:34:02,747 [INFO] 2025-11-02 23:34:02.746992 [INFO] Token created for user: password
+2025-11-02 23:34:02,747 [INFO] 127.0.0.1 - - [02/Nov/2025 23:34:02] "POST /login HTTP/1.1" 200 -
