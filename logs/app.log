@@ -469,3 +469,14 @@
 2025-11-02 23:34:02,746 [INFO] 2025-11-02 23:34:02.746556 [INFO] Login successful for user: password
 2025-11-02 23:34:02,747 [INFO] 2025-11-02 23:34:02.746992 [INFO] Token created for user: password
 2025-11-02 23:34:02,747 [INFO] 127.0.0.1 - - [02/Nov/2025 23:34:02] "POST /login HTTP/1.1" 200 -
+2025-11-02 23:39:47,951 [INFO] 127.0.0.1 - - [02/Nov/2025 23:39:47] "GET /file/4 HTTP/1.1" 200 -
+2025-11-02 23:39:50,448 [INFO] 127.0.0.1 - - [02/Nov/2025 23:39:50] "GET /file/5 HTTP/1.1" 200 -
+2025-11-02 23:39:51,771 [INFO] 127.0.0.1 - - [02/Nov/2025 23:39:51] "[33mGET /file/6 HTTP/1.1[0m" 404 -
+2025-11-23 22:30:27,298 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-23 22:30:27,298 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-23 22:30:27,302 [INFO]  * Restarting with stat
+2025-11-23 22:30:28,027 [WARNING]  * Debugger is active!
+2025-11-23 22:30:28,032 [INFO]  * Debugger PIN: 343-089-815
+2025-11-23 22:31:27,199 [INFO] 127.0.0.1 - - [23/Nov/2025 22:31:27] "GET /file/4 HTTP/1.1" 200 -
+2025-11-23 22:31:31,991 [INFO] 127.0.0.1 - - [23/Nov/2025 22:31:31] "GET /file/5 HTTP/1.1" 200 -
